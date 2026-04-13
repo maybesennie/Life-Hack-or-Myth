@@ -30,7 +30,7 @@ The app was tested manually to ensure:
 - Navigation works as expected
 
 ideo Demo
-[YouTube](https://youtu.be/8I5TQbXrtYw)
+[YouTube](https://youtu.be/t6yQQ0J1AKc)
 
 Screenshots
 <img width="471" height="612" alt="image" src="https://github.com/user-attachments/assets/60bed89c-61a5-4b74-a4ad-afa9d4754761" />
